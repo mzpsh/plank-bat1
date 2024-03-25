@@ -33,7 +33,7 @@ namespace Docky
         
         protected override void reset_properties ()
         {
-            BatteryName = "BAT0";
+            BatteryName = "BAT1";
         }
     }
 }
